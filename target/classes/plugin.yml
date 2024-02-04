@@ -1,0 +1,14 @@
+name: MusicPlayer
+version: '1.0'
+main: com.samvolvo.musicplayer.MusicPlayer
+api-version: '1.20'
+depend: [NoteBlockAPI]
+commands:
+  play:
+    description: Play a noteblock song
+    permission: musicplayer.play
+    usage: /play <songname>
+  songs:
+    description: song Commands
+    permission: musicplayer.songs
+    usage: /songs <command>

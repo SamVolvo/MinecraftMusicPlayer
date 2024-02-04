@@ -1,0 +1,7 @@
+/home/sam/Projects/Udemy/Plugins/MusicPlayer/src/main/java/com/samvolvo/musicplayer/Managers/SongManager.java
+/home/sam/Projects/Udemy/Plugins/MusicPlayer/src/main/java/com/samvolvo/musicplayer/Command/PlayCommand.java
+/home/sam/Projects/Udemy/Plugins/MusicPlayer/src/main/java/com/samvolvo/musicplayer/TabCompleter/SongsTabCompleter.java
+/home/sam/Projects/Udemy/Plugins/MusicPlayer/src/main/java/com/samvolvo/musicplayer/Command/SongsCommand.java
+/home/sam/Projects/Udemy/Plugins/MusicPlayer/src/main/java/com/samvolvo/musicplayer/Managers/SongNotFoundException.java
+/home/sam/Projects/Udemy/Plugins/MusicPlayer/src/main/java/com/samvolvo/musicplayer/TabCompleter/PlayCompleter.java
+/home/sam/Projects/Udemy/Plugins/MusicPlayer/src/main/java/com/samvolvo/musicplayer/MusicPlayer.java

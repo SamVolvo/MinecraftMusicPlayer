@@ -1,0 +1,8 @@
+com/samvolvo/musicplayer/MusicPlayer.class
+com/samvolvo/musicplayer/TabCompleter/SongsTabCompleter.class
+com/samvolvo/musicplayer/Command/SongsCommand.class
+com/samvolvo/musicplayer/Managers/SongManager$1.class
+com/samvolvo/musicplayer/Managers/SongNotFoundException.class
+com/samvolvo/musicplayer/Command/PlayCommand.class
+com/samvolvo/musicplayer/TabCompleter/PlayCompleter.class
+com/samvolvo/musicplayer/Managers/SongManager.class
